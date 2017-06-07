@@ -1,0 +1,10 @@
+9
+./data/mario.obj ./data/mario.mtl ./data/mario.png -17.0 0.0 15.0 135.0 1.3 0
+./data/Mario3/mariotroph.obj ./data/Mario3/mariotroph.mtl ./data/Mario3/gold.png 0.0 0.0 0.0 0.1 2.0 1
+./data/goomba.obj ./data/goomba.mtl ./data/goomba_tex.png -25.0 0.0 0.0 90.0 0.08 0
+./data/earlylogo.obj ./data/earlylogo.mtl ./data/earlylogo.png 0.0 0.0 -10.0 180.0 1.0 0
+./data/KoopaTroopa.obj ./data/KoopaTroopa.mtl ./data/Koopa_grp.png 0.0 0.0 26.0 180.0 0.06 0
+./data/boo.obj ./data/boo.mtl ./data/boo.png 28.0 0.0 0.0 270.0 1.5 0
+./data/luigi.obj ./data/luigi.mtl ./data/luigi1.png 17.0 0.0 15.0 215.0 0.4 0
+./data/bowserstadium1.obj ./data/bowserstadium1.mtl ./data/bowserstadium1.png 30.0 -120.0 0.0 0.1 100.0 1
+./data/I_star.obj ./data/I_star.mtl ./data/I_star.png 0.0 30.0 0.0 0.05 0.5 1
